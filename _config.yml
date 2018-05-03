@@ -1,7 +1,7 @@
-theme: jekyll-theme-architect
 title: jerry
 description: website
 show_downloads: "true"
 baseurl: ""
 gems:
   - jekyll-paginate
+markdown: kramdown
