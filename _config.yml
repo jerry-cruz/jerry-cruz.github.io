@@ -1,6 +1,6 @@
 # Setup
-name:         jerry
-tagline:      website
+title:         jerry
+description:      website
 baseurl:      ""
 locale:       "en"
 
