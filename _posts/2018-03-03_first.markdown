@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Test"
-date: 2018-03-03 12:49:00
+title:  "Test"
+date:   2018-03-03 12:49:00
+categories: jekyll update
 ---
 
 this is a mathjax test. Following equation shows integration of \(t\):
