@@ -3,3 +3,5 @@ title: jerry
 description: website
 show_downloads: "true"
 baseurl: ""
+gems:
+  - jekyll-paginate
