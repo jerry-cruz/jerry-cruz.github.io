@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 # Test
-this is $\alpha$ test
+this is a test
 
 $$
 
