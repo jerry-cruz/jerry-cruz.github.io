@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
+markdown: maruku
 use_math: "true"
 title: jerry
 description: website
