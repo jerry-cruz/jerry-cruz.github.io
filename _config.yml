@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 use_math: true
 title: jerry
-show_downloads: true
+show_downloads: "true"
