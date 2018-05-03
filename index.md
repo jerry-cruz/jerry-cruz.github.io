@@ -1,12 +1,8 @@
-# Test
-this is a mathjax test. Following equation shows integration of \(t\):
-
-$$
-\begin{align}
-\frac{x^2}{2} = \int_0^{x} t dt
-\end{align}
-$$
-
-<p align="center">
-  <img src="divide_2.png">
-</p>
+<div id="home">
+  <h1>Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
