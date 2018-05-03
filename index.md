@@ -1,7 +1,9 @@
----
-layout: default
----
+# Test
+this is a mathjax test. Following equation shows integration of \(t\):
 
-# Testing
-this is $$A$$ test
+$$
+\begin{align}
+\frac{x^2}{2} = \int_0^{x} t dt
+\end{align}
+$$
 
