@@ -7,3 +7,4 @@ $$
 \end{align}
 $$
 
+![](divide_2.png)
