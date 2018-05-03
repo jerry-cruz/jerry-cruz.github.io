@@ -8,5 +8,5 @@ $$
 $$
 
 <p align="center">
-  <src="divide_2.png">
+  <img src="divide_2.png">
 </p>
