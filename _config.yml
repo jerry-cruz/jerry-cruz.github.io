@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-use_math: true
+use_math: "true"
 title: jerry
 description: website
 show_downloads: "true"
