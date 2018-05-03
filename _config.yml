@@ -1,7 +1,12 @@
-title: jerry
-description: website
-show_downloads: "true"
-baseurl: ""
+# Setup
+name:         jerry
+tagline:      website
+baseurl:      ""
+locale:       "en"
+
+# Gems
 gems:
   - jekyll-paginate
+
+#Others
 markdown: kramdown
