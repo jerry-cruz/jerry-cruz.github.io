@@ -1,4 +1,8 @@
 # Test
 this is a test
 
-$$\frac{x^2}{2} = \int_0^x t dt$$
+$$
+\begin{align*}
+\frac{x^2}{2} = \int_0^x t dt
+\end{align*}
+$$
