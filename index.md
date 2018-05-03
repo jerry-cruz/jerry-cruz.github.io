@@ -7,4 +7,6 @@ $$
 \end{align}
 $$
 
-![](divide_2.png)
+<p align="center">
+  <src="divide_2.png">
+</p>
