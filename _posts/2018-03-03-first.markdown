@@ -14,5 +14,5 @@ $$
 $$
 
 <p align="center">
-    <img src="divide_2.png">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/divide_2.png">
 </p>
