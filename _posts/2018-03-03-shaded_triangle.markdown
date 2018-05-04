@@ -17,6 +17,9 @@ Find the proportion of area that is shaded in the figure:
 <p align="center">
     <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/shaded.png">
     <br>
-    Figure 1.
+    Figure 1. The enclosing shape is a perfect square and the line coming from the lower left corner cuts the top edge of the square in half.
 </p>
+
+# Solution
+Let $x$ be the length of one side of the square and $h$ be the height of the leftmost triangle. See Figure 2.
 
