@@ -49,4 +49,13 @@ $$
 
 Thus, we need only to show that $h$ is in fact a linear function of $x$ and find the value of $\alpha$.
 
+## Finding $h$
+Divide the square in Figure 1 evenly into four quadrants. See Figure 3.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/divide_1.png">
+    <br>
+    Figure 3. VEvenly divided into four quadrants.
+</p>
+
 
