@@ -41,9 +41,9 @@ where $\alpha$ is some constant. In that case, the proportion of area that is sh
 
 $$
 \begin{aligned}
-A &= 1 \nonumber \\
-&= 2 \nonumber \\
-& = 3
+A &= 1  \\
+&= 2 \\
+& = 3 \label{eq:1}
 \end{aligned}
 $$
 
