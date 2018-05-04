@@ -100,4 +100,29 @@ h' = \left(\frac{1}{4}\right)^2 x + h''.
 \end{align*}
 $$
 
+Using this equation, we can write \eqref{eq:3} as
+
+$$
+\begin{align*}
+h = \frac{1}{4}x + \left(\frac{1}{4}\right)^2 x + h''.
+\end{align*}
+$$
+
+Now, as mentioned above, h'' corresponds to another fractal version of the original problem, so we can apply the same reasoning to get 
+
+$$
+\begin{align*}
+h = \frac{1}{4}x + \left(\frac{1}{4}\right)^2 x + \left(\frac{1}{4}\right)^3 x + h'''.
+\end{align*}
+$$
+ 
+We can continue this proccess indefinitely (since the problem is fractal), and so (using mathematical induction) we can conclude that
+
+$$
+\begin{align*}
+h = x\sum_{x=1}^\infty\left(\frac{1}{4}\right^i.
+\end{align*}
+$$
+
+
 
