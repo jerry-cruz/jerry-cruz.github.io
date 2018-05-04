@@ -83,3 +83,21 @@ where $h'$ is the length in $s$ that corresponds to $h$ in the original problem;
     <br>
     Figure 5. Illustrates equation $\eqref{eq:3}$
 </p>
+
+Now, since $s$ is exactly the same problem, only scaled, we can express $h'$ as
+
+$$
+\begin{align}
+h' &= \frac{1}{4}x' + h'' \label{eq:4}
+\end{align}
+$$
+
+where $x'$ corresponds to the scaled version of $x$, and $h''$ corresponds to $h'$ in an even smaller version of the original problem, call it $s'$ (not shown in the figures). From the figure it is easy to see that $x'=\frac{1}{4}x$, so we can write \eqref{eq:4} as
+
+$$
+\begin{align*}
+h' = \left(\frac{1}{4}\right)^2 x + h''.
+\end{align*}
+$$
+
+
