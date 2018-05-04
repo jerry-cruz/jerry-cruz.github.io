@@ -23,3 +23,23 @@ Find the proportion of area that is shaded in the figure:
 # Solution
 Let $x$ be the length of one side of the square and $h$ be the height of the leftmost triangle. See Figure 2.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/shaded_1.png">
+    <br>
+    Figure 2. Variable definitions.
+</p>
+
+For the moment, assume that $h$ can be expressed as a linear function of $x$:
+$$
+\begin{align*}
+h(x) &= \alpha x,
+\end{align*}
+$$
+where $\alpha$ is some constant. In that case, the proportion of area that is shaded, say $A$, can be expressed as
+$$
+\begin{aligned}
+A &= 1 \nonumber \\
+&= 2 \nonumber \\
+& = 3
+\end{aligned}
+$$
