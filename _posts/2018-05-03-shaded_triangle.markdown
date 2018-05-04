@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shaded Triangle Problem"
-date:   2018-03-03 12:49:00
+date:   2018-05-03 12:49:00
 categories: geometry
 ---
 
