@@ -131,6 +131,7 @@ $$
 h &= x\sum_{i=1}^\infty\left(\frac{1}{4}\right)^i \\
 &= x\left(\frac{1}{1-\frac{1}{4}} - 1 \right) \\
 &= \frac{1}{3}x.
+\end{align*}
 $$
 
 Thus, we have shown that $h$ is a linear function of $x$ with $\alpha=\frac{1}{3}$. Using \eqref{eq:2} from the first part of the solution, we have that the proportion of area that is shaded is
