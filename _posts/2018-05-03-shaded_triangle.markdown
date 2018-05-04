@@ -162,3 +162,5 @@ Finally I'll mention that the most important part of the above solution is the u
 It can sometimes be atonishing what can be deduced from simple applications of symmetry. Two of my favorite applications of symmetry are Richard Feynman's derivation of conservation of momentum from a relativity principle ([Feynman lecture](http://www.feynmanlectures.caltech.edu/I_10.html)) and "Noether's first theorem" proved by Amalie Emmy Noether (after whom my daughter was named =) ). From [wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem):
 
 > Noether's (first) theorem states that every differentiable symmetry of the action of a physical system has a corresponding conservation law. 
+
+Notions of symmetry are also widely used in probability thoery (Bayesian and probability theory as extended logic, see material by [ET Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes)). Basically, the fact that something is symmetric can reveal a lot about it; or seen a different way, symmetry places constraints on the all the possible outcomes or configurations, thereby reducing the number of observable outcomes/configurations/etc...
