@@ -149,6 +149,11 @@ Although the solution was written very informally, it can be made as mathematica
 2. Fractality to derive an algebraic expression
 3. Knowledge of the closed form expression for the sum of an infinite geometric series
 
-Because of 3, the above solution is not exactly entirely from first principles, but deriving 3 is not difficult ([geometric series formula](https://en.wikipedia.org/wiki/Geometric_series#Formula).
+Because of 3, the above solution is not exactly entirely from first principles, but deriving 3 is not difficult (see [geometric series formula](https://en.wikipedia.org/wiki/Geometric_series#Formula)).
 
-Another appealing aspect about the solution method is that self-similarity can actually be used to help solve a problem (and not to just sound smart or draw pretty pictures) 
+Another appealing aspect of the solution method is that self-similarity can actually be used to help solve the problem (and not to just sound smart or draw pretty pictures).
+
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg">
+</p>
+
