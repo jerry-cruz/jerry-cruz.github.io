@@ -32,9 +32,9 @@ Let $x$ be the length of one side of the square and $h$ be the height of the lef
 For the moment, assume that $h$ can be expressed as a linear function of $x$:
 
 $$
-\begin{align*}
-h(x) &= \alpha x,
-\end{align*}
+\begin{align}
+h(x) &= \alpha x, \label{eq:1}
+\end{align}
 $$
 
 where $\alpha$ is some constant. In that case, the proportion of area that is shaded, say $A$, can be expressed as
@@ -43,7 +43,7 @@ $$
 \begin{align}
 A &= \frac{\frac{x^2}{2} - \frac{xh}{2}}{x^2}  \nonumber \\
 &= \frac{\frac{x^2}{2} - \frac{\alpha x^2}{2}}{x^2} \nonumber \\
-& = \frac{1-\alpha}{2}. \label{eq:1}
+& = \frac{1-\alpha}{2}. \label{eq:2}
 \end{align}
 $$
 
@@ -69,3 +69,17 @@ The square on the top left resembles the statement of the original problem, just
 The square labeled $s$ in the resulting figure (Figure 4) is exactly the original problem scaled by one sixteenth. Thus, the problem is fractal (i.e. exhibits self-similarity). We will use this fact to find $h$.
 
 We can express $h$ as 
+
+$$
+\begin{align}
+h &= \frac{1}{4}x + h', \label{eq:3}
+\end{align}
+$$
+
+where $h'$ is the length in $s$ that corresponds to $h$ in the original problem; i.e. it is the scaled version of $h$. See Figure 5.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/h_form.png">
+    <br>
+    Figure 5. Illustrates equation $\eqref{eq:3}$
+</p>
