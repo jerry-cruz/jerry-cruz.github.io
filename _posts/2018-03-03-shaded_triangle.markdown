@@ -16,6 +16,7 @@ Find the proportion of area that is shaded in the figure:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/divide_2.png">
+  
     Figure 1.
 </p>
 
@@ -24,7 +25,3 @@ $$
 \frac{x^2}{2} = \int_0^{x} t dt
 \end{align}
 $$
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/divide_2.png">
-</p>
