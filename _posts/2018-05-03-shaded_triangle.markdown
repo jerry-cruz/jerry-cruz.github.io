@@ -142,4 +142,13 @@ A = \frac{1-\alpha}{2} = \frac{1-\frac{1}{3}}{2} = \frac{1}{3}
 \end{align*}
 $$
 
+## Discussion
+Although the solution was written very informally, it can be made as mathematically rigorous as needed. Moreover, this is not the only solution method; and it may not necessarily be the "simplest" (e.g. use facts regarding similar triangles). It, however, uses very few facts:
 
+1. Symmetry (not explicitly stated in the solution above) to deduce that the problem is fractal
+2. Fractality to derive an algebraic expression
+3. Knowledge of the closed form expression for the sum of an infinite geometric series
+
+Because of 3, the above solution is not exactly entirely from first principles, but deriving 3 is not difficult ([geometric series formula](https://en.wikipedia.org/wiki/Geometric_series#Formula).
+
+Another appealing aspect about the solution method is that self-similarity can actually be used to help solve a problem (and not to just sound smart or draw pretty pictures) 
