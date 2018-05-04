@@ -41,10 +41,12 @@ where $\alpha$ is some constant. In that case, the proportion of area that is sh
 
 $$
 \begin{align}
-A &= 1  \nonumber \\
-&= 2 \nonumber \\
-& = 3 \label{eq:1}
+A &= \frac{\frac{x^2}{2} - \frac{xh}{2}}{x^2}  \nonumber \\
+&= \frac{\frac{x^2}{2} - \frac{\alpha x^2}{2}}{x^2} \nonumber \\
+& = \frac{1-\alpha}{2}. \label{eq:1}
 \end{align}
 $$
+
+Thus, we need only to show that $h$ is in fact a linear function of $x$ and find the value of $\alpha$.
 
 
