@@ -58,4 +58,4 @@ Divide the square in Figure 1 evenly into four quadrants. See Figure 3.
     Figure 3. VEvenly divided into four quadrants.
 </p>
 
-
+The square on the top left resembles the statement of the original problem, just on a smaller scale.
