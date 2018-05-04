@@ -30,12 +30,15 @@ Let $x$ be the length of one side of the square and $h$ be the height of the lef
 </p>
 
 For the moment, assume that $h$ can be expressed as a linear function of $x$:
+
 $$
 \begin{align*}
 h(x) &= \alpha x,
 \end{align*}
 $$
+
 where $\alpha$ is some constant. In that case, the proportion of area that is shaded, say $A$, can be expressed as
+
 $$
 \begin{aligned}
 A &= 1 \nonumber \\
@@ -43,3 +46,4 @@ A &= 1 \nonumber \\
 & = 3
 \end{aligned}
 $$
+
