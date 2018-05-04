@@ -142,7 +142,7 @@ A = \frac{1-\alpha}{2} = \frac{1-\frac{1}{3}}{2} = \frac{1}{3}
 \end{align*}
 $$
 
-## Discussion
+# Discussion
 Although the solution was written very informally, it can be made as mathematically rigorous as needed. Moreover, this is not the only solution method; and it may not necessarily be the "simplest" (e.g. use facts regarding similar triangles). It, however, uses very few facts:
 
 1. Symmetry (not explicitly stated in the solution above) to deduce that the problem is fractal
@@ -154,6 +154,6 @@ Because of 3, the above solution is not exactly entirely from first principles, 
 Another appealing aspect of the solution method is that self-similarity can actually be used to help solve the problem (and not to just sound smart or draw pretty pictures).
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" height=40 width=40>
 </p>
 
