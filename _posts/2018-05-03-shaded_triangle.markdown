@@ -154,6 +154,11 @@ Because of 3, the above solution is not exactly entirely from first principles, 
 Another appealing aspect of the solution method is that self-similarity can actually be used to help solve the problem (and not to just sound smart or draw pretty pictures).
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" height="40" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" height="200" width="200">
 </p>
 
+Finally I'll mention that the most important part of the above solution is the use of symmetry to deduce facts about the problem. This is important because of how widely notions of symmetry are used to solve problems in mathematics and physics. In fact, if you take a general definition of symmetry as invariance with respect to some transformation, using fractality (number 2. above) is really using the fact that the problem is invariant to changes in scale (another application of symmetry). Perhaps number 3. above can also be derived as an application of symmetry.
+
+It can sometimes be atonishing what can be deduced from simple applications of symmetry. Two of my favorite applications of symmetry are Richard Feynman's derivation of conservation of momentum from a relativity principle ([Feynman lecture](http://www.feynmanlectures.caltech.edu/I_10.html)) and "Noether's first theorem" proved by Amalie Emmy Noether (after whom my daughter was named =) ). From [wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem):
+
+> Noether's (first) theorem states that every differentiable symmetry of the action of a physical system has a corresponding conservation law. 
