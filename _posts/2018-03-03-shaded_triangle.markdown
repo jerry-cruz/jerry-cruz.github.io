@@ -58,4 +58,14 @@ Divide the square in Figure 1 evenly into four quadrants. See Figure 3.
     Figure 3. Evenly divided into four quadrants.
 </p>
 
-The square on the top left resembles the statement of the original problem, just on a smaller scale.
+The square on the top left resembles the statement of the original problem, just on a smaller scale. In fact, the top left square is an inverted version of the original problem scaled by one fourth. Divide this (top-left) square into four quadrants. See Figure 4.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/divide_2.png">
+    <br>
+    Figure 4. Top-left evenly divided into four quadrants
+</p>
+
+The square labeled $s$ in the resulting figure (Figure 4) is exactly the original problem scaled by one sixteenth. Thus, the problem is fractal (i.e. exhibits self-similarity). We will use this fact to find $h$.
+
+We can express $h$ as 
