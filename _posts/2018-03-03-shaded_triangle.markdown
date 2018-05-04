@@ -5,7 +5,7 @@ date:   2018-03-03 12:49:00
 categories: geometry
 ---
 
-I first became aware of this problem through the article in this tweet \\(it came up on my google newsfeed\\):
+I first became aware of this problem through the article in this tweet (it came up on my google newsfeed):
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">😂&quot;That damn pink triangle&quot; <a href="https://t.co/0HIQDqo3tB">https://t.co/0HIQDqo3tB</a></p>&mdash; Ed Southall (@solvemymaths) <a href="https://twitter.com/solvemymaths/status/990201229094645760?ref_src=twsrc%5Etfw">April 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
