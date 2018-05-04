@@ -154,6 +154,6 @@ Because of 3, the above solution is not exactly entirely from first principles, 
 Another appealing aspect of the solution method is that self-similarity can actually be used to help solve the problem (and not to just sound smart or draw pretty pictures).
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" height=40 width=40>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" height="40" width="40">
 </p>
 
