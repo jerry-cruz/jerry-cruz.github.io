@@ -15,13 +15,8 @@ It didn't seem that hard despite "Stumping the Internet" so I decided to try to 
 Find the proportion of area that is shaded in the figure:
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/divide_2.png">
+    <img src="https://raw.githubusercontent.com/jerry-cruz/jerry-cruz.github.io/master/_posts/shaded_triangle_images/shaded.png">
     <br>
     Figure 1.
 </p>
 
-$$
-\begin{align}
-\frac{x^2}{2} = \int_0^{x} t dt
-\end{align}
-$$
