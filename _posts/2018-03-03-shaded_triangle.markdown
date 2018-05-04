@@ -40,10 +40,10 @@ $$
 where $\alpha$ is some constant. In that case, the proportion of area that is shaded, say $A$, can be expressed as
 
 $$
-\begin{aligned}
+\begin{align}
 A &= 1  \\
 &= 2 \\
 & = 3 \label{eq:1}
-\end{aligned}
+\end{align}
 $$
 
